@@ -1,6 +1,6 @@
 # -Guess-the-Number-Game
 
-ABOUT – Psychology-Based Guess the Number Game 
+ABOUT –  Guess the Number Game 
 🎮 Overview
 
 The Psychology-Based Guess the Number Game is an enhanced version of the classic number-guessing game designed using principles of game design psychology, behavioral motivation, and player experience engineering.
